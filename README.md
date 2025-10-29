@@ -76,6 +76,9 @@ Modify the overlay position and size
 
 Add additional keys or features
 
+Version History
+1.0: Initial release with basic key display and CPS tracking
+
 
 
 i will make a website for this later :D
