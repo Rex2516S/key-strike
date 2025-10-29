@@ -22,13 +22,6 @@ Row 4: Space key
 Row 5: LEFT and RIGHT mouse buttons with CPS counters
 
 Controls
-W, A, S, D: Movement keys
-
-C: Crouch/sneak key
-
-Shift: Sprint key
-
-Space: Jump key
 
 Mouse Left/Right: Attack/use keys with CPS tracking
 
