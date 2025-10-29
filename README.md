@@ -1,5 +1,4 @@
 Usage
-Launch the application using any of the methods above
 
 The transparent overlay will appear in the top-most layer
 
