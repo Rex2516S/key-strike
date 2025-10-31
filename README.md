@@ -1,84 +1,80 @@
-Usage
+Overview
 
-The transparent overlay will appear in the top-most layer
+Key Strike v2.0 is a real-time keyboard and mouse input visualization tool designed for gaming and productivity. It displays the status of commonly used keys and mouse buttons with CPS (Clicks Per Second) tracking for mouse clicks.
 
-Press keys or click mouse buttons to see visual feedback
 
-Mouse CPS (clicks-per-second) is calculated and displayed in real-time
 
-Press F9 at any time to exit the application
+Features
 
-Interface Layout
-The display is organized in five rows:
+Real-time Key Display: Visual feedback for W, A, S, D, C, Space, Shift keys
 
-Row 1: W key
 
-Row 2: A, S, D keys
 
-Row 3: Shift and C keys
+Mouse Tracking: Left and right mouse button tracking with CPS calculation
 
-Row 4: Space key
 
-Row 5: LEFT and RIGHT mouse buttons with CPS counters
 
-Controls
+Customizable Colors: Fully customizable color scheme for all UI elements
 
-Mouse Left/Right: Attack/use keys with CPS tracking
+
+
+Always on Top: Window stays on top of other applications
+
+
+
+Transparent Background: Clean overlay that doesn't obstruct your view
+
+
+
+Hotkey Controls:
+
+
 
 F9: Exit application
 
-Technical Details
-The application uses a transparent overlay that stays on top of other windows
 
-Keyboard input is captured globally using the keyboard library
 
-Mouse clicks are tracked using the pynput library
-
-CPS is calculated based on clicks within a 1-second rolling window
-
-The interface is built with Tkinter with custom transparent background
-
-Troubleshooting
-Common Issues
-"Unknown color name" error:
-
-The transparent background feature may not work on all systems
-
-The application will still function with a solid background
-
-Permission errors:
-
-On first run, Windows may ask for permission to monitor keyboard input
-
-Grant permissions for the application to function properly
-
-Application not capturing input:
-
-Ensure no other applications are blocking global keyboard hooks
-
-Run as administrator if necessary
-
-Performance
-The application is designed to be lightweight
-
-Typically uses less than 1% CPU and 50MB RAM
-
-If experiencing performance issues, try closing other background applications
-
-Customization
-Advanced users can modify the source code to:
-
-Change key bindings
-
-Adjust the visual style
-
-Modify the overlay position and size
-
-Add additional keys or features
-
-Version History
-1.0: Initial release with basic key display and CPS tracking
+F10: Open settings
 
 
 
-i will make a website for this later :D
+Usage
+
+The application will start with a transparent overlay showing key status
+
+
+
+Press keys to see visual feedback
+
+
+
+Mouse clicks are tracked with real-time CPS calculation
+
+
+
+Use F10 to customize colors and F9 to exit
+
+
+
+System Requirements
+
+Windows operating system
+
+
+
+Python 3.7+
+
+
+
+Administrator privileges may be required for keyboard hooks
+
+
+
+by kyle\_A\_10000
+
+V2.0
+
+visit the website:https://keystrike.pages.dev/
+
+Rex2516@163.com
+
