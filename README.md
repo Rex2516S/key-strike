@@ -70,6 +70,7 @@ Administrator privileges may be required for keyboard hooks
 
 
 Upddate Log:
+25.11.1 V2.1 update backgroud of settings(no exe availiable)
 25.10.31 V2.0 update settings of color
 
 
@@ -81,5 +82,6 @@ V2.0
 visit the website:https://keystrike.pages.dev/
 
 Rex2516@163.com
+
 
 
